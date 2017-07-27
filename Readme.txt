@@ -1,3 +1,3 @@
 This file is created on master branch.
 
-1. Master edited
+release 0.0.1
